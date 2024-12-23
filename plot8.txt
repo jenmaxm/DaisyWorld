@@ -1,0 +1,3 @@
+Temperature of white daisies 
+against solar luminosity 
+is a paraboloc function 

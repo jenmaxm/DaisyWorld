@@ -1,0 +1,5 @@
+White daisies can handle a higher luminosity better 
+than black daisies as they reflect the sunlight better.
+
+White daisies are at the highest area at 0.8 
+compared to black which can barely survive at that luminosity.

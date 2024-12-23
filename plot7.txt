@@ -1,0 +1,8 @@
+Shows the regulation of the temperature of the planet 
+when only black daisies are present.
+
+The temperature initially increases as the 
+black daisies heat the planet. After a while the temperature 
+decreases again as the planet is too hot and so the 
+daisies die off which result in less absorption of the 
+light allowing the planet to cool itself down.

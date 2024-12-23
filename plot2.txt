@@ -1,0 +1,14 @@
+This graph is a parabolic function. 
+
+It reaches a maximum around (295,0.7) where 295 is 
+the temperature and 0.7 is the area as a decimal out of 1.
+
+As the temperature increases so does the area until the 
+maximum point where after this point it starts to decrease. 
+This is due to the fact the daisies will be unable to grow past 
+this temperature as it will be too hot for them to grow. 
+This will overall decrease the area of the daisies until it is zero.
+
+The growth of the daisies is the best between around 290 and 300 as 
+it is the most stable between these points as 
+this is when the graph is the least steep.

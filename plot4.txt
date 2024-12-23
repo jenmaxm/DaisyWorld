@@ -1,0 +1,10 @@
+As the luminosity increases the temperature of 
+the black daisies will also increase.
+
+This is because black daisies have a low albedo and 
+don't reflect sunlight very well.
+They instead absorb sunlight. This leads to them 
+gaining heat from the sunlight which gives off 
+solar energy and heat resulting in the temperature to increase.
+
+As the luminosity increases so will the temperature of the black daisies.

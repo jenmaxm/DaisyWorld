@@ -1,0 +1,3 @@
+The temperature against change in solar luminosity 
+is a parbolic function.
+

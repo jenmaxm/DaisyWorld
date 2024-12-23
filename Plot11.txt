@@ -1,0 +1,5 @@
+When both species are present the mean planetary temperature
+decreases with increasing luminosity which is against the 
+trend when only one species is present. This is because it
+happens over a broader range of luminosity 
+so arguably it is more effective.

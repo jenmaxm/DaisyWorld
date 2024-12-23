@@ -1,0 +1,7 @@
+This graph shows us that the optimum temperature 
+for the best growth rate is 295.
+This is when the peak is the highest.
+
+Temperature below 280 or above 310 could result in 
+near zero growth rate which would mean 
+barely any daisies would grow.

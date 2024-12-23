@@ -1,0 +1,8 @@
+Shows the regulation of the temperature of the planet 
+when only white daisies are present.
+
+The temperature initially decreases as the white daisies 
+cool down the planet. After a while the temperatrure increases 
+again as the planet is too cold and so the daisies die off which 
+result in less reflection of the light and more absorption of 
+the heat from the bare ground allowing the planet to warm itself up.

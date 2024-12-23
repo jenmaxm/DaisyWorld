@@ -1,0 +1,9 @@
+As the luminosity increases, so does the temperature of the planet.
+This is because of the fact that the sun radiates light and heat, or 
+solar energy which in turn causes an increase in temperature.
+However, since there are no species alive on the planet there is 
+no way to cool the planet down. 
+If white daisies were present they could reflect this 
+luminosity back but there are no daisies in this model so 
+the temperature stays increasing. 
+They are somewhat proprtional as luminosity increases so does the temperature.
